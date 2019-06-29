@@ -8,8 +8,8 @@
 
 ## 2. Detection
 
-- **VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection** (CVPR 2018), Y. Zhou et al. [[pdf]](https://arxiv.org/pdf/1711.06396.pdf) :star: :star: :star: :star: :star:
-- **PointPillars: Fast Encoders for Object Detection from Point Clouds** (CVPR 2019), A. Lang et al. [[pdf]](https://arxiv.org/pdf/1812.05784.pdf) [[GIthub]](https://github.com/nutonomy/second.pytorch) :star: :star: :star: :star: :star:
+- **VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection** (CVPR 2018), Y. Zhou et al. [[pdf]](https://arxiv.org/pdf/1711.06396.pdf) <br/> :star: :star: :star: :star: :star:
+- **PointPillars: Fast Encoders for Object Detection from Point Clouds** (CVPR 2019), A. Lang et al. [[pdf]](https://arxiv.org/pdf/1812.05784.pdf) [[GIthub]](https://github.com/nutonomy/second.pytorch)  <br/> :star: :star: :star: :star: :star:
 - **Frustum PointNets for 3D Object Detection from RGB-D Data** (CVPR 2018), C. Qi et al. [[pdf]](https://arxiv.org/pdf/1711.08488.pdf) [[GIthub]](https://github.com/charlesq34/frustum-pointnets) :star: :star: :star: :star:
 - **Frustum ConvNet: Sliding Frustums to Aggregate Local Point-Wise Features for Amodal 3D Object Detection** (CVPR 2019), Z. Wang et al. [[pdf]](https://arxiv.org/pdf/1903.01864.pdf) :star: :star: :star: :star:
 - **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud** (CVPR 2019), S. Shi et al. [[pdf]](https://arxiv.org/pdf/1812.04244.pdf) [[Github]](https://github.com/sshaoshuai/PointRCNN) :star: :star: :star: :star: :star:
