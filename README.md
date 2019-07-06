@@ -4,10 +4,16 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 
 ## 1. Feature extractor
 
+- **Escape from Cells: Deep Kd-Networks for the Recognition of 3D Point Cloud Models** (ICCV 2017), R. Klokov et al. [[pdf]](https://arxiv.org/pdf/1704.01222.pdf) :star: :star: :star: :star:
 - **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation** (CVPR 2017), C. R. Qi et al. [[pdf]](https://arxiv.org/pdf/1612.00593.pdf) [[Github]](https://github.com/charlesq34/pointnet) :star: :star: :star: :star: :star:
 - **PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space** (NeurIPS 2017), C. R. Qi et al. [[pdf]](https://arxiv.org/pdf/1706.02413.pdf) [[Github]](https://github.com/charlesq34/pointnet2) :star: :star: :star: :star: :star:
+- ** PointCNN: Convolution On X-Transformed Points** (NeurIPS 2018) Y. Li et al, [[pdf]](https://arxiv.org/pdf/1801.07791.pdf) [[Github]](https://github.com/yangyanli/PointCNN) :star: :star: :star:
+- **A-CNN: Annularly Convolutional Neural Networks on Point Clouds** (CVPR 2019), A. Komarichev et al. [[pdf]](https://arxiv.org/pdf/1904.08017.pdf) :star: :star: :star:
+- **Relation-Shape Convolutional Neural Network for Point Cloud Analysis** (CVPR 2019), Y. Liu et al. [[pdf]](https://arxiv.org/pdf/1904.07601.pdf) :star: :star: :star: :star:
 
-... (To be completed, a useful resource is the learderboard of [ModelNet Benchmark](http://modelnet.cs.princeton.edu/))
+### Other useful links
+
+- [ModelNet Benchmark](http://modelnet.cs.princeton.edu/)
 
 ## 2. Detection
 
@@ -37,11 +43,11 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 
 ### Multi-view/multi-sensor/multi-task
 
-- **Multi-View 3D Object Detection Network for Autonomous Driving** (CVPR 2017), X. Chen et al. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[Github]](https://github.com/bostondiditeam/MV3D)
-- **PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation** (CVPR 2018), D. Xu et al. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf)
-- **Deep Continuous Fusion for Multi-Sensor 3D Object Detection** (ECCV 2018), M. Liang et al. [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf)
+- **Multi-View 3D Object Detection Network for Autonomous Driving** (CVPR 2017), X. Chen et al. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_Multi-View_3D_Object_CVPR_2017_paper.pdf) [[Github]](https://github.com/bostondiditeam/MV3D) :star: :star: :star: :star:
+- **PointFusion: Deep Sensor Fusion for 3D Bounding Box Estimation** (CVPR 2018), D. Xu et al. [[pdf]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.pdf) :star: :star: :star: :star:
+- **Deep Continuous Fusion for Multi-Sensor 3D Object Detection** (ECCV 2018), M. Liang et al. [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.pdf) :star: :star: :star: :star:
 - **Multi-Task Multi-Sensor Fusion for 3D Object Detection** (CVPR 2019), M. Liang et al. [[pdf]](http://www.cs.toronto.edu/~byang/papers/mmf.pdf) :star: :star: :star: :star: :star:
-- **MVX-Net: Multimodal VoxelNet for 3D Object Detection** (ICRA 2019), V. A. Sindagi et al. [[pdf]](https://arxiv.org/pdf/1904.01649.pdf)
+- **MVX-Net: Multimodal VoxelNet for 3D Object Detection** (ICRA 2019), V. A. Sindagi et al. [[pdf]](https://arxiv.org/pdf/1904.01649.pdf) :star: :star: :star: :star:
 
 ### Other useful links
 - [KITTI Leaderboard](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d)
@@ -49,7 +55,11 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 
 ## 3. Segmentation
 
-- ... (To be completed)
+- **Recurrent Slice Networks for 3D Segmentation of Point Clouds** (CVPR 2018), Q. Huang et al. [[pdf]](https://arxiv.org/pdf/1802.04402.pdf) [[Github]](https://github.com/qianguih/RSNet) :star: :star: :star: :star:
+- **SGPN: Similarity Group Proposal Network for 3D Point Cloud Instance Segmentation** (CVPR 2018), W. Wang et al. [[pdf]](https://arxiv.org/pdf/1711.08588.pdf) [[Github]](https://github.com/laughtervv/SGPN) :star: :star: :star: :star:
+- **Associatively Segmenting Instances and Semantics in Point Clouds** (CVPR 2019), X. Long et al. [[pdf]](https://arxiv.org/pdf/1902.09852.pdf) :star: :star: :star: :star: :star:
+
+...(To be completed)
 
 ## 4. Dataset
 
