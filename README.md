@@ -33,7 +33,7 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 **Directly operate on point clouds**
 
 - **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud** (CVPR 2019), S. Shi et al. [[pdf]](https://arxiv.org/pdf/1812.04244.pdf) [[Github]](https://github.com/sshaoshuai/PointRCNN) :star: :star: :star: :star: :star:
-- **Deep Hough Voting for 3D Object Detection in Point Clouds** (ICCV 2019) C. R. Qi et al. [[pdf]](https://arxiv.org/pdf/1904.09664.pdf) :star: :star: :star: :star: :star:
+- **Deep Hough Voting for 3D Object Detection in Point Clouds** (ICCV 2019) C. R. Qi et al. [[pdf]](https://arxiv.org/pdf/1904.09664.pdf) [[Github]](https://github.com/facebookresearch/votenet) :star: :star: :star: :star: :star:
 
 **Combining point coordinates and voxels**
 
