@@ -39,7 +39,7 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 
 - **STD: Sparse-to-Dense 3D Object Detector for Point Cloud** (ICCV 2019), Z. Yang et al. [[pdf]](https://arxiv.org/pdf/1907.10471.pdf) :star: :star: :star: :star:
 - **Fast Point R-CNN** (ICCV 2019), Y. Chen et al. [[pdf]](https://arxiv.org/pdf/1908.02990.pdf) :star: :star: :star:
-- **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection** (Arxiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1912.13192.pdf) :star: :star: :star: :star: :star:
+- **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection** (Arxiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1912.13192.pdf) <br/> :star: :star: :star: :star: :star:
 
 ### 2D proposal based
 
