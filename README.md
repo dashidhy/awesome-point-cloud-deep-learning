@@ -17,9 +17,9 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 
 ## 2. Detection
 
-### Only geometric as input
+### Only geometry as input
 
-**Mapping into regular grids**
+**Grid-based methods**
 
 - **Voting for Voting in Online Point Cloud Object Detection** (RSS 2015), D. Z. Wang et al. [[pdf]](http://www.robots.ox.ac.uk/~mobile/Papers/2015RSS_wang.pdf) :star: :star: :star:
 - **Vote3Deep: Fast Object Detection in 3D Point Clouds Using Efficient Convolutional Neural Networks** (ICRA 2017), M. Engelcke et al. [[pdf]](https://arxiv.org/pdf/1609.06666.pdf) :star: :star: :star:
@@ -30,15 +30,16 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 - **PointPillars: Fast Encoders for Object Detection from Point Clouds** (CVPR 2019), A. Lang et al. [[pdf]](https://arxiv.org/pdf/1812.05784.pdf) [[GIthub]](https://github.com/nutonomy/second.pytorch)  <br/> :star: :star: :star: :star: :star:
 - **Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud** (ArXiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1907.03670.pdf) :star: :star: :star: :star:
 
-**Directly operate on point clouds**
+**Point-based methods**
 
 - **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud** (CVPR 2019), S. Shi et al. [[pdf]](https://arxiv.org/pdf/1812.04244.pdf) [[Github]](https://github.com/sshaoshuai/PointRCNN) :star: :star: :star: :star: :star:
 - **Deep Hough Voting for 3D Object Detection in Point Clouds** (ICCV 2019) C. R. Qi et al. [[pdf]](https://arxiv.org/pdf/1904.09664.pdf) [[Github]](https://github.com/facebookresearch/votenet) :star: :star: :star: :star: :star:
 
-**Combining point coordinates and voxels**
+**Combining point-based and grid-based methods**
 
 - **STD: Sparse-to-Dense 3D Object Detector for Point Cloud** (ICCV 2019), Z. Yang et al. [[pdf]](https://arxiv.org/pdf/1907.10471.pdf) :star: :star: :star: :star:
 - **Fast Point R-CNN** (ICCV 2019), Y. Chen et al. [[pdf]](https://arxiv.org/pdf/1908.02990.pdf) :star: :star: :star:
+- **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection** (Arxiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1912.13192.pdf) :star: :star: :star: :star: :star:
 
 ### 2D proposal based
 
