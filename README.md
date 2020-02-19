@@ -28,7 +28,7 @@ This repo collects papers on point cloud deep learning. Note that the stars I gi
 - **PIXOR: Real-time 3D Object Detection From Point Clouds** (CVPR 2018), B. Yang et al. [[pdf]](https://arxiv.org/pdf/1902.06326.pdf) :star: :star: :star: :star:
 - **SECOND: Sparsely Embedded Convolutional Detection** (Sensors 2018) Y. Yan et al. [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210968/pdf/sensors-18-03337.pdf) [[Github]](https://github.com/traveller59/second.pytorch) :star: :star: :star:
 - **PointPillars: Fast Encoders for Object Detection from Point Clouds** (CVPR 2019), A. Lang et al. [[pdf]](https://arxiv.org/pdf/1812.05784.pdf) [[GIthub]](https://github.com/nutonomy/second.pytorch)  <br/> :star: :star: :star: :star: :star:
-- **Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud** (ArXiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1907.03670.pdf) :star: :star: :star: :star:
+- **Part-A^2 Net: 3D Part-Aware and Aggregation Neural Network for Object Detection from Point Cloud** (ArXiv 2019) S. Shi et al. [[pdf]](https://arxiv.org/pdf/1907.03670.pdf) [[Github]](https://github.com/sshaoshuai/PartA2-Net) :star: :star: :star: :star:
 
 **Point-based methods**
 
